@@ -1,3 +1,8 @@
+## Rol:
+
+- Desarrollador frontend del desarrollo de las vistas en terminos generales
+- Tester de backend
+
 <img src="https://cdn.discordapp.com/attachments/1086317081865228361/1107574173330583663/Banner_Patitas-_RRSS.png"></img>
 # Patitas-a-casa
 ---
